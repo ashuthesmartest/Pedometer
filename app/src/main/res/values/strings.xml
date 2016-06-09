@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="step_counter">android.hardware.sensor.stepcounter</string>
+    <string name="step_detector">android.hardware.sensor.stepdetector</string>
+    <string name="textview">Hello world!</string>
+    <string name="textview1">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
